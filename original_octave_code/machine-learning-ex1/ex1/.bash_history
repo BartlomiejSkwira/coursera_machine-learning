@@ -23,3 +23,6 @@ octave
 exit
 octave
 exit
+octave
+ex
+exit
