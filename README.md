@@ -1,4 +1,4 @@
-# coursera_machine-learning
+# Coursera machine learning course in Python
 
 Homework excercises for a Machine Learning course by Andrew Ng
 Course location https://www.coursera.org/learn/machine-learning 
